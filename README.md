@@ -1,2 +1,3 @@
 # CP-Linux-Scripts
-Just Some Scripts im working on for a competition
+Hello There these are just various random scipts that anybody is welcome to use 
+if you have any qustion about how the script works you can always message me. 
